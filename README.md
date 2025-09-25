@@ -21,12 +21,14 @@ PROJE KAPSAMINDA;
 
 
 
-
 ## EKLER
 
 - Grad Cam ile model görselinin hangi bölgelere odaklandığı incelendi.
 
 - İki tane CNN mimarisi denendi ve Grad Cam için last_conv katmanı eklendi.
+- 
+<img width="437" height="181" alt="image" src="https://github.com/user-attachments/assets/a418e039-777f-4880-ba46-ff0d9c8cc30c" />
+
 
 ## Sonuç ve Gelecek Çalışmalar
 
