@@ -30,7 +30,7 @@ PROJE KAPSAMINDA;
 
 ## Sonuç ve Gelecek Çalışmalar
 
-- Bu proje sonucunda CNN tabanlı görüntü sınıflandırma modeli oluşturuldu.
+- Bu proje sonucunda CNN tabanlı görüntü sınıflandırma modeli oluşturuldu. %84 başarı elde edildi. 
 
 - Gelecekteki çalışmalar için veri arttırma yöntemleri, daha yüksek doğruluk için hiperparametre optimizasyonunda geliştirmeler ve streamlit vb. tabanlı bir kullanıcı arayüzü ile modelin deploy edilmesi amaçlanmaktadır. 
 
